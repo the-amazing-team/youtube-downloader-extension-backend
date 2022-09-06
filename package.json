@@ -1,0 +1,24 @@
+{
+  "name": "youtube-downloader-extension-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-amazing-team/youtube-downloader-extension-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-amazing-team/youtube-downloader-extension-backend/issues"
+  },
+  "homepage": "https://github.com/the-amazing-team/youtube-downloader-extension-backend#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
